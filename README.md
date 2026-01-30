@@ -38,7 +38,7 @@ This project contains my **F1 Driver Performance Dashboard** built in **Tableau*
 - **Grid Position view**:
   - distribution of starting grid positions across races
 - **Driver Profile panel**:
-  - team, nationality, driver code/number (if available)
+  - team, nationality, driver code/number 
   - career stats: total races, podiums, finished races, DNF rate
   - derived metrics: consistency, average qualifying position, average finishing position, avg position change
 
@@ -49,7 +49,7 @@ This project contains my **F1 Driver Performance Dashboard** built in **Tableau*
 ## Tech Stack
 
 - **Tableau Public / Tableau Desktop** (visualization)
-- Data preparation (optional):  Excel & SQL 
+- Data preparation:  Excel & SQL 
 - Dataset: Kaggle 
 
 ---
